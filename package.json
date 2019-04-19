@@ -1,5 +1,5 @@
 {
-  "name": "math-ops-test",
+  "name": "math-ops-test-new19",
   "version": "1.0.0",
   "description": "A small library to do math operations.",
   "main": "index.js",
@@ -10,7 +10,7 @@
     "math",
     "operations"
   ],
-  "author": "LearningDev",
+  "author": "NikoRozo",
   "license": "ISC",
   "devDependencies": {
     "mocha": "^5.2.0"
